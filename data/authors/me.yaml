@@ -1,0 +1,42 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Tian Peng
+  given: Tian
+  family: Peng
+  alternate: '彭添'
+  pronunciation: 'Péng Tiān'
+status:
+  icon: "☕️"
+  role: Deputy Chief Engineer, Technology Center
+bio: |
+  Tian Peng is Deputy Chief Engineer of the Technology Center at China
+  Construction Second Engineering Bureau (Shenzhen Branch). His research
+  focuses on structural health monitoring, embodied intelligence, and
+  intelligent construction.
+
+affiliations:
+  - name: China Construction Second Engineering Bureau (Shenzhen Branch)
+    url: ''
+
+links:
+  - icon: at-symbol
+    url: mailto:pt0796@163.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/tian-upc
+
+interests:
+  - Structural Health Monitoring
+  - Embodied Intelligence
+  - Intelligent Construction
+
+experience:
+  - role: Deputy Chief Engineer, Technology Center
+    org: China Construction Second Engineering Bureau (Shenzhen Branch)
+    start: 2023-01-01
+    summary: |
+      Leading research and development at the Technology Center, focusing on
+      structural health monitoring, embodied intelligence, and intelligent
+      construction.
