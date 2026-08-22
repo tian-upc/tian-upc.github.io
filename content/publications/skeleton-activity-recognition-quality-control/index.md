@@ -1,0 +1,15 @@
+---
+title: "Skeleton-based activity recognition for process-based quality control of concealed engineering via ST-GCNs"
+authors:
+  - L. Xiao
+  - X. Yang
+  - me
+  - H. Li
+  - R. Guo
+date: "2024-01-01T00:00:00Z"
+publication_types: ["article-journal"]
+publication:
+  name: "Sensors"
+  volume: 24
+featured: false
+---

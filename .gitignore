@@ -67,3 +67,6 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+# WeChat received files
+data_from_wechat/

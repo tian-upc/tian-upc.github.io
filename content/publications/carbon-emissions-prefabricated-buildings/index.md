@@ -1,0 +1,14 @@
+---
+title: "Assessment of Carbon Emissions at the Logistics and Transportation Stage of Prefabricated Buildings"
+authors:
+  - Y. Zhang
+  - me
+  - C. Yuan
+  - Y. Ping
+date: "2023-01-01T00:00:00Z"
+publication_types: ["article-journal"]
+publication:
+  name: "Applied Sciences"
+  volume: 13
+featured: false
+---

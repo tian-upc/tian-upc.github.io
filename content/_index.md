@@ -11,6 +11,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -39,4 +43,25 @@ sections:
         Please reach out to collaborate.
     design:
       columns: '1'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
 ---
