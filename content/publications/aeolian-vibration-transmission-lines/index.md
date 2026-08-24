@@ -1,7 +1,7 @@
 ---
 title: "Response and Prevention of Aeolian Vibration of Transmission Lines"
 authors:
-  - me
+  - T. Peng
   - Q. Xie
   - J. Zhang
 date: "2017-01-01T00:00:00Z"

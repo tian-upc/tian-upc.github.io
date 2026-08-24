@@ -3,7 +3,7 @@ title: "Skeleton-based activity recognition for process-based quality control of
 authors:
   - L. Xiao
   - X. Yang
-  - me
+  - T. Peng
   - H. Li
   - R. Guo
 date: "2024-01-01T00:00:00Z"

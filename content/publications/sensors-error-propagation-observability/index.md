@@ -1,10 +1,10 @@
 ---
 title: "Role of sensors in error propagation with the dynamic constrained Observability method"
 authors:
-  - me
-  - Maria Nogal
-  - Joan R. Casas
-  - Jose Turmo
+  - T. Peng
+  - M. Nogal
+  - J. R. Casas
+  - J. Turmo
 date: "2021-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication:

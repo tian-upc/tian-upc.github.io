@@ -1,11 +1,11 @@
 ---
 title: "Constrained observability techniques for structural system identification using modal analysis"
 authors:
-  - me
-  - Maria Nogal
-  - Joan R. Casas
-  - Jose A. Lozano-Galant
-  - Jose Turmo
+  - T. Peng
+  - M. Nogal
+  - J. R. Casas
+  - J. A. Lozano-Galant
+  - J. Turmo
 date: "2020-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication:
