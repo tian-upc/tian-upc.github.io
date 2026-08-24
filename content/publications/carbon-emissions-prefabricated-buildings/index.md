@@ -11,4 +11,7 @@ publication:
   name: "Applied Sciences"
   volume: 13
 featured: false
+links:
+  - type: source
+    url: "https://www.mdpi.com/2076-3417/13/1/552"
 ---

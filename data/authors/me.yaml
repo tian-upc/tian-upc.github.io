@@ -9,14 +9,13 @@ name:
   pronunciation: 'Péng Tiān'
 status:
   icon: "☕️"
-  role: Deputy Chief Engineer, Technology Center
+  role: Assistant Manager, Technology Center
 bio: |
-  Tian Peng is Deputy Chief Engineer of the Technology Center at the Second
-  Company of China Construction Second Engineering Bureau Ltd. (CSCEC) in
-  Shenzhen. He received his PhD in Civil Engineering from Universitat
-  Politècnica de Catalunya (UPC), Barcelona. His research focuses on
-  structural health monitoring, embodied intelligence, and intelligent
-  construction.
+  Tian Peng is Assistant Manager of the Technology Center at the Second Company
+  of China Construction Second Engineering Bureau Ltd. (CSCEC) in Shenzhen. She
+  holds a PhD in Civil Engineering from Polytechnic University of Catalonia
+  (UPC), Barcelona. Her research focuses on structural health monitoring,
+  embodied AI, and intelligent construction.
 
 affiliations:
   - name: The Second Company of China Construction Second Engineering Bureau Ltd. (CSCEC)
@@ -31,20 +30,18 @@ links:
 
 interests:
   - Structural Health Monitoring
-  - Embodied Intelligence
+  - Embodied AI
   - Intelligent Construction
 
 education:
-  - degree: PhD in Civil Engineering
-    institution: Universitat Politècnica de Catalunya (UPC), Barcelona, Spain
+  - degree: Ph.D. in Civil Engineering
+    institution: Polytechnic University of Catalonia (UPC), Barcelona, Spain
     start: 2017-10-01
     end: 2021-05-31
     summary: |
       Excellent Cum Laude, International Doctoral Honors.
       Supervisor: Prof. José Turmo.
-      Visiting Scholar at Delft University of Technology (Jan–Jul 2020),
-      supervised by Prof. Maria Nogal.
-  - degree: M.S. in Structural Engineering
+  - degree: M.S. in Civil Engineering
     institution: Tongji University, Shanghai, China
     start: 2014-09-01
     end: 2017-01-31
@@ -60,9 +57,15 @@ education:
       University (2014), First-class Scholarship (2011, 2012).
 
 experience:
-  - role: Deputy Chief Engineer, Technology Center
+  - role: Assistant Manager, Technology Center
     org: The Second Company of China Construction Second Engineering Bureau Ltd. (CSCEC), Shenzhen, China
     start: 2021-08-01
     summary: |
       Responsible for research and development projects, as well as corporate
       carbon inventory.
+  - role: Visiting Scholar
+    org: Delft University of Technology
+    start: 2020-01-01
+    end: 2020-10-31
+    summary: |
+      Supervisor: Prof. Maria Nogal.

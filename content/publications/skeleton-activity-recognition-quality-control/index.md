@@ -12,4 +12,7 @@ publication:
   name: "Sensors"
   volume: 24
 featured: false
+links:
+  - type: source
+    url: "https://www.mdpi.com/1424-8220/24/4/1220"
 ---

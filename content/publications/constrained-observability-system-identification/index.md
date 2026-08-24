@@ -12,4 +12,7 @@ publication:
   name: "Journal of Sound and Vibration"
   volume: 479
 featured: true
+links:
+  - type: source
+    url: "https://research.tudelft.nl/en/publications/constrained-observability-techniques-for-structural-system-identi/"
 ---

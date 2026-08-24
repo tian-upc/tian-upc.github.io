@@ -11,4 +11,7 @@ publication:
   name: "Automation in Construction"
   volume: 127
 featured: true
+links:
+  - type: source
+    url: "https://upcommons.upc.edu/entities/publication/027500f2-3026-48b9-95e9-b51aee6ddc23"
 ---

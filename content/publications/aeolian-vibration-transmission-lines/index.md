@@ -7,7 +7,7 @@ authors:
 date: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication:
-  name: "Guangdong Electric Power"
+  name: "广东电力（中文核心期刊，Guangdong Electric Power）"
   issue: 8
 featured: false
 ---

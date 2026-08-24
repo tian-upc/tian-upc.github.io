@@ -7,7 +7,7 @@ authors:
 date: "2025-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication:
-  name: "Building Energy Efficiency"
+  name: "建筑节能（中文核心期刊，Building Energy Efficiency）"
   volume: 53
   issue: 8
 featured: false
