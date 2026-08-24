@@ -4,6 +4,7 @@ summary: "Using natural energy to reduce temporary building energy consumption i
 tags:
   - Prefabricated Construction
   - Natural Energy
+  - Academic
 date: "2022-09-01T00:00:00Z"
 ---
 

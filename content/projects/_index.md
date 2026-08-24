@@ -7,11 +7,28 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Embodied AI Projects
+      text: Projects on embodied AI and intelligent construction.
       filters:
         folders:
           - projects
+        tag: Embodied AI
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: false
+
+  - block: collection
+    content:
+      title: Academic Projects
+      text: Funded research projects.
+      filters:
+        folders:
+          - projects
+        tag: Academic
     design:
       view: article-grid
       fill_image: false

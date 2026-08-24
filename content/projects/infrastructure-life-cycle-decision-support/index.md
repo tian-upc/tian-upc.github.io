@@ -4,6 +4,7 @@ summary: "Structural health monitoring method focusing on the error influence of
 tags:
   - Structural Health Monitoring
   - Infrastructure
+  - Academic
 date: "2017-10-01T00:00:00Z"
 ---
 

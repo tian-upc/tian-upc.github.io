@@ -4,6 +4,7 @@ summary: "Performance and optimization design of stock-bridge dampers for transm
 tags:
   - Aeolian Vibration
   - Transmission Line
+  - Academic
 date: "2015-09-01T00:00:00Z"
 ---
 
