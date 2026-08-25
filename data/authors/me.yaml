@@ -36,6 +36,7 @@ interests:
 education:
   - degree: Ph.D. in Civil Engineering
     institution: Polytechnic University of Catalonia (UPC), Barcelona, Spain
+    logo: education/logo-upc.webp
     start: 2017-10-01
     end: 2021-05-31
     summary: |
@@ -43,6 +44,7 @@ education:
       Supervisor: Prof. José Turmo.
   - degree: M.S. in Civil Engineering
     institution: Tongji University, Shanghai, China
+    logo: education/logo-tongji.webp
     start: 2014-09-01
     end: 2017-01-31
     summary: |
@@ -50,6 +52,7 @@ education:
       "JINHAI" Special Scholarship (2015, top 2%), Admission Scholarship (2014).
   - degree: B.S. in Civil Engineering
     institution: Shanghai University, Shanghai, China
+    logo: education/logo-shu.webp
     start: 2010-09-01
     end: 2014-06-30
     summary: |
