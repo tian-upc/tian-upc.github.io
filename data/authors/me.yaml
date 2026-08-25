@@ -62,12 +62,14 @@ education:
 experience:
   - role: Assistant Manager, Technology Center
     org: The Second Company of China Construction Second Engineering Bureau Ltd. (CSCEC), Shenzhen, China
+    logo: experience/logo-cscec.webp
     start: 2021-08-01
     summary: |
       Responsible for research and development projects, as well as corporate
       carbon inventory.
   - role: Visiting Scholar
     org: Delft University of Technology
+    logo: experience/logo-tudelft.png
     start: 2020-01-01
     end: 2020-10-31
     summary: |
